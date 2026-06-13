@@ -122,7 +122,7 @@ window.STUDIO_CONFIG = {
   seo: {
     // Después de publicar, poné acá tu URL final (ej: 'https://juan.github.io/data-studio/').
     // Mejora la tarjeta al compartir. Vacío = se usa la URL actual.
-    url: '',
+    url: 'https://jcparisi0606-oss.github.io/data-studio/',
     // Imagen de la tarjeta. Ya viene una generada (og-image.svg).
     image: 'og-image.svg',
   },
